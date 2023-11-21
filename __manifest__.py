@@ -25,9 +25,11 @@
     # always loaded
     'data': [
         'views/informacion.xml',
+        'views/suceso.xml',
         'views/templates.xml',
         'views/menu.xml',
         'security/ir.model.access.csv',
+
     ],
     # only loaded in demonstration mode
     'demo': [
